@@ -5,7 +5,7 @@ info2 = input("Digite a segunda informação: ")
 
 info_concatenada = info1 + " " + info2
 
-print("Informações concatenadas sao: ", info_concatenada)
+print("Informações concatenadas são: ", info_concatenada)
 
 
 
