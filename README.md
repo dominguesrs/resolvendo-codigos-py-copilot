@@ -7,7 +7,7 @@ Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Gith
 Se  não tiver tem acesso ao Github Copilot?! Não tem problema!! 
 A  recomendação é utilizar o [ChatGPT](https://chat.openai.com/) como seu assistente.
 
-## 1 - Concatenando Dados 🐾
+## 1 - Concatenando Dados 🔗
 
 Descrição:
 Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
